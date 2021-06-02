@@ -2,272 +2,382 @@
     {
         "fips": "01",
         "abbrev": "AL",
-        "state": "Alabama"
+        "state": "Alabama",
+        "latitude": 32.7990,
+        "longitude": -86.8073
     },
     {
         "fips": "02",
         "abbrev": "AK",
-        "state": "Alaska"
+        "state": "Alaska",
+        "latitude": 61.3850,
+        "longitude": -152.2683
     },
     {
         "fips": "04",
         "abbrev": "AZ",
-        "state": "Arizona"
+        "state": "Arizona",
+        "latitude": 33.7712,
+        "longitude": -111.3877
     },
     {
         "fips": "05",
         "abbrev": "AR",
-        "state": "Arkansas"
+        "state": "Arkansas",
+        "latitude": 34.9513,
+        "longitude": -92.3809
     },
     {
         "fips": "06",
         "abbrev": "CA",
-        "state": "California"
+        "state": "California",
+        "latitude": 36.1700,
+        "longitude": -119.7462
     },
     {
         "fips": "08",
         "abbrev": "CO",
-        "state": "Colorado"
+        "state": "Colorado",
+        "latitude": 39.0646,
+        "longitude": -105.3272
     },
     {
         "fips": "09",
         "abbrev": "CT",
-        "state": "Connecticut"
+        "state": "Connecticut",
+        "latitude": 41.5834,
+        "longitude": -72.7622
     },
     {
         "fips": "10",
         "abbrev": "DE",
-        "state": "Delaware"
+        "state": "Delaware",
+        "latitude": 39.3498,
+        "longitude": -75.5148
     },
     {
         "fips": "11",
         "abbrev": "DC",
-        "state": "District of Columbia"
+        "state": "District of Columbia",
+        "latitude": 38.942142,
+        "longitude": -77.025955
     },
     {
         "fips": "12",
         "abbrev": "FL",
-        "state": "Florida"
+        "state": "Florida",
+        "latitude": 27.8333,
+        "longitude": -81.7170
     },
     {
         "fips": "13",
         "abbrev": "GA",
-        "state": "Georgia"
+        "state": "Georgia",
+        "latitude": 32.9866,
+        "longitude": -83.6487
     },
     {
         "fips": "15",
         "abbrev": "HI",
-        "state": "Hawaii"
+        "state": "Hawaii",
+        "latitude": 21.1098,
+        "longitude": -157.5311
     },
     {
         "fips": "16",
         "abbrev": "ID",
-        "state": "Idaho"
+        "state": "Idaho",
+        "latitude": 44.2394,
+        "longitude": -114.5103
     },
     {
         "fips": "17",
         "abbrev": "IL",
-        "state": "Illinois"
+        "state": "Illinois",
+        "latitude": 40.3363,
+        "longitude": -89.0022
     },
     {
         "fips": "18",
         "abbrev": "IN",
-        "state": "Indiana"
+        "state": "Indiana",
+        "latitude": 39.8647,
+        "longitude": -86.2604
     },
     {
         "fips": "19",
         "abbrev": "IA",
-        "state": "Iowa"
+        "state": "Iowa",
+        "latitude": 42.0046,
+        "longitude": -93.2140
     },
     {
         "fips": "20",
         "abbrev": "KS",
-        "state": "Kansas"
+        "state": "Kansas",
+        "latitude": 38.5111,
+        "longitude": -96.8005
     },
     {
         "fips": "21",
         "abbrev": "KY",
-        "state": "Kentucky"
+        "state": "Kentucky",
+        "latitude": 37.6690,
+        "longitude": -84.6514
     },
     {
         "fips": "22",
         "abbrev": "LA",
-        "state": "Louisiana"
+        "state": "Louisiana",
+        "latitude": 31.1801,
+        "longitude": -91.8749
     },
     {
         "fips": "23",
         "abbrev": "ME",
-        "state": "Maine"
+        "state": "Maine",
+        "latitude": 44.6074,
+        "longitude": -69.3977
     },
     {
         "fips": "24",
         "abbrev": "MD",
-        "state": "Maryland"
+        "state": "Maryland",
+        "latitude": 39.0724,
+        "longitude": -76.7902
     },
     {
         "fips": "25",
         "abbrev": "MA",
-        "state": "Massachusetts"
+        "state": "Massachusetts",
+        "latitude": 42.2373,
+        "longitude": -71.5314
     },
     {
         "fips": "26",
         "abbrev": "MI",
-        "state": "Michigan"
+        "state": "Michigan",
+        "latitude": 43.3504,
+        "longitude": -84.5603
     },
     {
         "fips": "27",
         "abbrev": "MN",
-        "state": "Minnesota"
+        "state": "Minnesota",
+        "latitude": 45.7326,
+        "longitude": -93.9196
     },
     {
         "fips": "28",
         "abbrev": "MS",
-        "state": "Mississippi"
+        "state": "Mississippi",
+        "latitude": 32.7673,
+        "longitude": -89.6812
     },
     {
         "fips": "29",
         "abbrev": "MO",
-        "state": "Missouri"
+        "state": "Missouri",
+        "latitude": 38.4623,
+        "longitude": -92.3020
     },
     {
         "fips": "30",
         "abbrev": "MT",
-        "state": "Montana"
+        "state": "Montana",
+        "latitude": 46.9048,
+        "longitude": -110.326
     },
     {
         "fips": "31",
         "abbrev": "NE",
-        "state": "Nebraska"
+        "state": "Nebraska",
+        "latitude": 41.1289,
+        "longitude": -98.2883
     },
     {
         "fips": "32",
         "abbrev": "NV",
-        "state": "Nevada"
+        "state": "Nevada",
+        "latitude": 38.4199,
+        "longitude": -117.1219
     },
     {
         "fips": "33",
         "abbrev": "NH",
-        "state": "New Hampshire"
+        "state": "New Hampshire",
+        "latitude": 43.4108,
+        "longitude": -71.5653
     },
     {
         "fips": "34",
         "abbrev": "NJ",
-        "state": "New Jersey"
+        "state": "New Jersey",
+        "latitude": 40.3140,
+        "longitude": -74.5089
     },
     {
         "fips": "35",
         "abbrev": "NM",
-        "state": "New Mexico"
+        "state": "New Mexico",
+        "latitude": 34.8375,
+        "longitude": -106.2371
     },
     {
         "fips": "36",
         "abbrev": "NY",
-        "state": "New York"
+        "state": "New York",
+        "latitude": 42.1497,
+        "longitude": -74.9384
     },
     {
         "fips": "37",
         "abbrev": "NC",
-        "state": "North Carolina"
+        "state": "North Carolina",
+        "latitude": 35.6411,
+        "longitude": -79.8431
     },
     {
         "fips": "38",
         "abbrev": "ND",
-        "state": "North Dakota"
+        "state": "North Dakota",
+        "latitude": 47.5362,
+        "longitude": -99.7930
     },
     {
         "fips": "39",
         "abbrev": "OH",
-        "state": "Ohio"
+        "state": "Ohio",
+        "latitude": 40.3736,
+        "longitude": -82.7755
     },
     {
         "fips": "40",
         "abbrev": "OK",
-        "state": "Oklahoma"
+        "state": "Oklahoma",
+        "latitude": 35.5376,
+        "longitude": -96.9247
     },
     {
         "fips": "41",
         "abbrev": "OR",
-        "state": "Oregon"
+        "state": "Oregon",
+        "latitude": 44.5672,
+        "longitude": -122.1269
     },
     {
         "fips": "42",
         "abbrev": "PA",
-        "state": "Pennsylvania"
+        "state": "Pennsylvania",
+        "latitude": 40.5773,
+        "longitude": -77.2640
     },
     {
         "fips": "44",
         "abbrev": "RI",
-        "state": "Rhode Island"
+        "state": "Rhode Island",
+        "latitude": 41.6772,
+        "longitude": -71.5101
     },
     {
         "fips": "45",
         "abbrev": "SC",
-        "state": "South Carolina"
+        "state": "South Carolina",
+        "latitude": 33.8191,
+        "longitude": -80.9066
     },
     {
         "fips": "46",
         "abbrev": "SD",
-        "state": "South Dakota"
+        "state": "South Dakota",
+        "latitude": 44.2853,
+        "longitude": -99.4632
     },
     {
         "fips": "47",
         "abbrev": "TN",
-        "state": "Tennessee"
+        "state": "Tennessee",
+        "latitude": 35.7449,
+        "longitude": -86.7489
     },
     {
         "fips": "48",
         "abbrev": "TX",
-        "state": "Texas"
+        "state": "Texas",
+        "latitude": 31.1060,
+        "longitude": -97.6475
     },
     {
         "fips": "49",
         "abbrev": "UT",
-        "state": "Utah"
+        "state": "Utah",
+        "latitude": 40.1135,
+        "longitude": -111.8535
     },
     {
         "fips": "50",
         "abbrev": "VT",
-        "state": "Vermont"
+        "state": "Vermont",
+        "latitude": 44.0407,
+        "longitude": -72.7093
     },
     {
         "fips": "51",
         "abbrev": "VA",
-        "state": "Virginia"
+        "state": "Virginia",
+        "latitude": 37.7680,
+        "longitude": -78.2057
     },
     {
         "fips": "53",
         "abbrev": "WA",
-        "state": "Washington"
+        "state": "Washington",
+        "latitude": 47.3917,
+        "longitude": -121.5708
     },
     {
         "fips": "54",
         "abbrev": "WV",
-        "state": "West Virginia"
+        "state": "West Virginia",
+        "latitude": 38.4680,
+        "longitude": -80.9696
     },
     {
         "fips": "55",
         "abbrev": "WI",
-        "state": "Wisconsin"
+        "state": "Wisconsin",
+        "latitude": 44.2563,
+        "longitude": -89.6385
     },
     {
         "fips": "56",
         "abbrev": "WY",
-        "state": "Wyoming"
+        "state": "Wyoming",
+        "latitude": 42.7475,
+        "longitude": -107.2085
     },
     {
         "fips": "60",
-        "state": "American Samoa"
+        "state": "American Samoa",
+        "latitude": -14.275632,
+        "longitude": -170.702042
     },
     {
         "fips": "66",
-        "state": "Guam"
+        "state": "Guam",
+        "latitude": 13.444304,
+        "longitude": 144.793732
     },
     {
         "fips": "72",
-        "state": "Puerto Rico"
+        "state": "Puerto Rico",
+        "latitude": 18.200178,
+        "longitude": -66.664513
     },
     {
         "fips": "78",
-        "state": "Virgin Islands"
+        "state": "Virgin Islands",
+        "latitude": 34.297878,
+        "longitude": -83.824066
     }
 ]
