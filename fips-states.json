@@ -3,381 +3,448 @@
         "fips": "01",
         "abbrev": "AL",
         "state": "Alabama",
-        "latitude": 32.7990,
-        "longitude": -86.8073
+        "latitude": 32.799,
+        "longitude": -86.8073,
+        "zoom": 7
     },
     {
         "fips": "02",
         "abbrev": "AK",
         "state": "Alaska",
-        "latitude": 61.3850,
-        "longitude": -152.2683
+        "latitude": 61.385,
+        "longitude": -152.2683,
+        "zoom": 4
     },
     {
         "fips": "04",
         "abbrev": "AZ",
         "state": "Arizona",
         "latitude": 33.7712,
-        "longitude": -111.3877
+        "longitude": -111.3877,
+        "zoom": 6
     },
     {
         "fips": "05",
         "abbrev": "AR",
         "state": "Arkansas",
         "latitude": 34.9513,
-        "longitude": -92.3809
+        "longitude": -92.3809,
+        "zoom": 7
     },
     {
         "fips": "06",
         "abbrev": "CA",
         "state": "California",
-        "latitude": 36.1700,
-        "longitude": -119.7462
+        "latitude": 36.17,
+        "longitude": -119.7462,
+        "zoom": 5
     },
     {
         "fips": "08",
         "abbrev": "CO",
         "state": "Colorado",
         "latitude": 39.0646,
-        "longitude": -105.3272
+        "longitude": -105.3272,
+        "zoom": 7
     },
     {
         "fips": "09",
         "abbrev": "CT",
         "state": "Connecticut",
         "latitude": 41.5834,
-        "longitude": -72.7622
+        "longitude": -72.7622,
+        "zoom": 8
     },
     {
         "fips": "10",
         "abbrev": "DE",
         "state": "Delaware",
         "latitude": 39.3498,
-        "longitude": -75.5148
+        "longitude": -75.5148,
+        "zoom": 8
     },
     {
         "fips": "11",
         "abbrev": "DC",
         "state": "District of Columbia",
-        "latitude": 38.942142,
-        "longitude": -77.025955
+        "latitude": 38.902142,
+        "longitude": -77.025955,
+        "zoom": 11
     },
     {
         "fips": "12",
         "abbrev": "FL",
         "state": "Florida",
         "latitude": 27.8333,
-        "longitude": -81.7170
+        "longitude": -81.717,
+        "zoom": 6
     },
     {
         "fips": "13",
         "abbrev": "GA",
         "state": "Georgia",
         "latitude": 32.9866,
-        "longitude": -83.6487
+        "longitude": -83.6487,
+        "zoom": 6
     },
     {
         "fips": "15",
         "abbrev": "HI",
         "state": "Hawaii",
         "latitude": 21.1098,
-        "longitude": -157.5311
+        "longitude": -157.5311,
+        "zoom": 7
     },
     {
         "fips": "16",
         "abbrev": "ID",
         "state": "Idaho",
-        "latitude": 44.2394,
-        "longitude": -114.5103
+        "latitude": 45.525,
+        "longitude": -114.5103,
+        "zoom": 6
     },
     {
         "fips": "17",
         "abbrev": "IL",
         "state": "Illinois",
         "latitude": 40.3363,
-        "longitude": -89.0022
+        "longitude": -89.0022,
+        "zoom": 6
     },
     {
         "fips": "18",
         "abbrev": "IN",
         "state": "Indiana",
-        "latitude": 39.8647,
-        "longitude": -86.2604
+        "latitude": 39.7847,
+        "longitude": -86.2604,
+        "zoom": 7
     },
     {
         "fips": "19",
         "abbrev": "IA",
         "state": "Iowa",
         "latitude": 42.0046,
-        "longitude": -93.2140
+        "longitude": -93.214,
+        "zoom": 7
     },
     {
         "fips": "20",
         "abbrev": "KS",
         "state": "Kansas",
         "latitude": 38.5111,
-        "longitude": -96.8005
+        "longitude": -98.8005,
+        "zoom": 7
     },
     {
         "fips": "21",
         "abbrev": "KY",
         "state": "Kentucky",
-        "latitude": 37.6690,
-        "longitude": -84.6514
+        "latitude": 37.669,
+        "longitude": -85.6514,
+        "zoom": 7
     },
     {
         "fips": "22",
         "abbrev": "LA",
         "state": "Louisiana",
-        "latitude": 31.1801,
-        "longitude": -91.8749
+        "latitude": 31.0401,
+        "longitude": -91.8749,
+        "zoom": 7
     },
     {
         "fips": "23",
         "abbrev": "ME",
         "state": "Maine",
         "latitude": 44.6074,
-        "longitude": -69.3977
+        "longitude": -69.3977,
+        "zoom": 6
     },
     {
         "fips": "24",
         "abbrev": "MD",
         "state": "Maryland",
-        "latitude": 39.0724,
-        "longitude": -76.7902
+        "latitude": 38.85,
+        "longitude": -77.0,
+        "zoom": 8
     },
     {
         "fips": "25",
         "abbrev": "MA",
         "state": "Massachusetts",
-        "latitude": 42.2373,
-        "longitude": -71.5314
+        "latitude": 42.0501,
+        "longitude": -71.5314,
+        "zoom": 8
     },
     {
         "fips": "26",
         "abbrev": "MI",
         "state": "Michigan",
-        "latitude": 43.3504,
-        "longitude": -84.5603
+        "latitude": 44.8504,
+        "longitude": -84.5603,
+        "zoom": 6
     },
     {
         "fips": "27",
         "abbrev": "MN",
         "state": "Minnesota",
-        "latitude": 45.7326,
-        "longitude": -93.9196
+        "latitude": 46.3326,
+        "longitude": -93.9196,
+        "zoom": 6
     },
     {
         "fips": "28",
         "abbrev": "MS",
         "state": "Mississippi",
         "latitude": 32.7673,
-        "longitude": -89.6812
+        "longitude": -89.6812,
+        "zoom": 7
     },
     {
         "fips": "29",
         "abbrev": "MO",
         "state": "Missouri",
         "latitude": 38.4623,
-        "longitude": -92.3020
+        "longitude": -92.302,
+        "zoom": 7
     },
     {
         "fips": "30",
         "abbrev": "MT",
         "state": "Montana",
-        "latitude": 46.9048,
-        "longitude": -110.326
+        "latitude": 46.7048,
+        "longitude": -110.326,
+        "zoom": 7
     },
     {
         "fips": "31",
         "abbrev": "NE",
         "state": "Nebraska",
         "latitude": 41.1289,
-        "longitude": -98.2883
+        "longitude": -99.7883,
+        "zoom": 7
     },
     {
         "fips": "32",
         "abbrev": "NV",
         "state": "Nevada",
         "latitude": 38.4199,
-        "longitude": -117.1219
+        "longitude": -117.1219,
+        "zoom": 6
     },
     {
         "fips": "33",
         "abbrev": "NH",
         "state": "New Hampshire",
-        "latitude": 43.4108,
-        "longitude": -71.5653
+        "latitude": 44.0,
+        "longitude": -71.5653,
+        "zoom": 8
     },
     {
         "fips": "34",
         "abbrev": "NJ",
         "state": "New Jersey",
-        "latitude": 40.3140,
-        "longitude": -74.5089
+        "latitude": 40.114,
+        "longitude": -74.5089,
+        "zoom": 8
     },
     {
         "fips": "35",
         "abbrev": "NM",
         "state": "New Mexico",
-        "latitude": 34.8375,
-        "longitude": -106.2371
+        "latitude": 34.2375,
+        "longitude": -106.2371,
+        "zoom": 7
     },
     {
         "fips": "36",
         "abbrev": "NY",
         "state": "New York",
-        "latitude": 42.1497,
-        "longitude": -74.9384
+        "latitude": 42.6497,
+        "longitude": -74.9384,
+        "zoom": 7
     },
     {
         "fips": "37",
         "abbrev": "NC",
         "state": "North Carolina",
         "latitude": 35.6411,
-        "longitude": -79.8431
+        "longitude": -79.8431,
+        "zoom": 7
     },
     {
         "fips": "38",
         "abbrev": "ND",
         "state": "North Dakota",
         "latitude": 47.5362,
-        "longitude": -99.7930
+        "longitude": -99.793,
+        "zoom": 7
     },
     {
         "fips": "39",
         "abbrev": "OH",
         "state": "Ohio",
         "latitude": 40.3736,
-        "longitude": -82.7755
+        "longitude": -82.7755,
+        "zoom": 7
     },
     {
         "fips": "40",
         "abbrev": "OK",
         "state": "Oklahoma",
         "latitude": 35.5376,
-        "longitude": -96.9247
+        "longitude": -96.9247,
+        "zoom": 7
     },
     {
         "fips": "41",
         "abbrev": "OR",
         "state": "Oregon",
-        "latitude": 44.5672,
-        "longitude": -122.1269
+        "latitude": 44.1672,
+        "longitude": -120.5269,
+        "zoom": 7
     },
     {
         "fips": "42",
         "abbrev": "PA",
         "state": "Pennsylvania",
-        "latitude": 40.5773,
-        "longitude": -77.2640
+        "latitude": 40.9773,
+        "longitude": -77.564,
+        "zoom": 8
     },
     {
         "fips": "44",
         "abbrev": "RI",
         "state": "Rhode Island",
         "latitude": 41.6772,
-        "longitude": -71.5101
+        "longitude": -71.5101,
+        "zoom": 9
     },
     {
         "fips": "45",
         "abbrev": "SC",
         "state": "South Carolina",
         "latitude": 33.8191,
-        "longitude": -80.9066
+        "longitude": -80.9066,
+        "zoom": 7
     },
     {
         "fips": "46",
         "abbrev": "SD",
         "state": "South Dakota",
         "latitude": 44.2853,
-        "longitude": -99.4632
+        "longitude": -100.4632,
+        "zoom": 7
     },
     {
         "fips": "47",
         "abbrev": "TN",
         "state": "Tennessee",
         "latitude": 35.7449,
-        "longitude": -86.7489
+        "longitude": -86.7489,
+        "zoom": 7
     },
     {
         "fips": "48",
         "abbrev": "TX",
         "state": "Texas",
-        "latitude": 31.1060,
-        "longitude": -97.6475
+        "latitude": 31.106,
+        "longitude": -99.6475,
+        "zoom": 6
     },
     {
         "fips": "49",
         "abbrev": "UT",
         "state": "Utah",
-        "latitude": 40.1135,
-        "longitude": -111.8535
+        "latitude": 39.5135,
+        "longitude": -111.8535,
+        "zoom": 7
     },
     {
         "fips": "50",
         "abbrev": "VT",
         "state": "Vermont",
-        "latitude": 44.0407,
-        "longitude": -72.7093
+        "latitude": 43.8407,
+        "longitude": -72.7093,
+        "zoom": 8
     },
     {
         "fips": "51",
         "abbrev": "VA",
         "state": "Virginia",
-        "latitude": 37.7680,
-        "longitude": -78.2057
+        "latitude": 37.768,
+        "longitude": -79.2057,
+        "zoom": 7
     },
     {
         "fips": "53",
         "abbrev": "WA",
         "state": "Washington",
         "latitude": 47.3917,
-        "longitude": -121.5708
+        "longitude": -120.5708,
+        "zoom": 7
     },
     {
         "fips": "54",
         "abbrev": "WV",
         "state": "West Virginia",
-        "latitude": 38.4680,
-        "longitude": -80.9696
+        "latitude": 38.868,
+        "longitude": -80.4696,
+        "zoom": 7
     },
     {
         "fips": "55",
         "abbrev": "WI",
         "state": "Wisconsin",
-        "latitude": 44.2563,
-        "longitude": -89.6385
+        "latitude": 44.7563,
+        "longitude": -90.1385,
+        "zoom": 7
     },
     {
         "fips": "56",
         "abbrev": "WY",
         "state": "Wyoming",
-        "latitude": 42.7475,
-        "longitude": -107.2085
+        "latitude": 42.9475,
+        "longitude": -107.5085,
+        "zoom": 7
     },
     {
         "fips": "60",
+        "abbrev": "AS",
         "state": "American Samoa",
         "latitude": -14.275632,
-        "longitude": -170.702042
+        "longitude": -169.702042,
+        "zoom": 9
     },
     {
         "fips": "66",
+        "abbrev": "GU",
         "state": "Guam",
-        "latitude": 13.444304,
-        "longitude": 144.793732
+        "latitude": 13.442304,
+        "longitude": 144.793732,
+        "zoom": 11
+    },
+    {
+        "fips": "69",
+        "abbrev": "MP",
+        "state": "Northern Mariana Islands",
+        "latitude": 17.083333,
+        "longitude": 145.75,
+        "zoom": 7
     },
     {
         "fips": "72",
+        "abbrev": "PR",
         "state": "Puerto Rico",
         "latitude": 18.200178,
-        "longitude": -66.664513
+        "longitude": -66.664513,
+        "zoom": 9
     },
     {
         "fips": "78",
+        "abbrev": "VI",
         "state": "Virgin Islands",
-        "latitude": 34.297878,
-        "longitude": -83.824066
+        "latitude": 18.136539,
+        "longitude": -64.818103,
+        "zoom": 9
     }
 ]
